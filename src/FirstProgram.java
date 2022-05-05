@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class FirstProgram {
     public static void main (String[] args) {
-        System.out.println(Arrays.toString(Pascals_triangle.generate(20)));
+        System.out.println(HammingWeight.getHammingWeight(15));
     }
 }
 
