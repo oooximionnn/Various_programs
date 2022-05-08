@@ -4,8 +4,6 @@ import java.util.Scanner;
 
 public class FirstProgram {
     public static void main (String[] args) {
-        System.out.println(HammingWeight.getHammingWeight(15));
+        System.out.println(GetSquare.getSquare(100, 100, 60));
     }
 }
-
-
